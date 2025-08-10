@@ -8,6 +8,14 @@ yarn-error.log*
 build/
 dist/
 
+# Cache directories
+.cache/
+node_modules/.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vuepress/dist/
+
 # Environment variables
 .env
 .env.local
