@@ -4,6 +4,7 @@ import { FaMoon, FaSun, FaDownload } from 'react-icons/fa';
 const sections = [
   { id: 'home', label: 'Home' },
   { id: 'about', label: 'About' },
+  { id: 'myworks', label: 'My Works' },
   { id: 'projects', label: 'Projects' },
   { id: 'contact', label: 'Contact' },
 ];
